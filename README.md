@@ -60,11 +60,6 @@ local developer = {
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZenTiPS0&show_icons=true&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 Motto
-
-> "Good UI is invisible. Great UI feels natural."
 
 <div align="center">
 
