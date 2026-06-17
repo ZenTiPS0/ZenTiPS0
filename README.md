@@ -57,7 +57,7 @@ local developer = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZenTiPS&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZenTiPS0&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
