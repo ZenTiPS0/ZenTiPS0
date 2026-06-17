@@ -36,7 +36,7 @@ local developer = {
 ## 🛠️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,lua,vscode,git,github" />
 </p>
 
 <p align="center">
